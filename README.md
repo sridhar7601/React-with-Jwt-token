@@ -52,4 +52,24 @@ This code sets up a React component called `App` that interacts with the server-
 
 ### Steps to run the repository locally
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine && Navigate to Backend :
+```bash
+cd backend && npm install
+```
+2. Start the backend server :
+```bash
+node server.js
+```
+3. Go back to main folder :
+```bash
+cd ..
+```
+4.Navigate to frontend :
+```bash
+cd frontend &&  npm install
+```
+5. Start the frontend server :
+```bash
+npm start 
+```
+
